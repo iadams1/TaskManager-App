@@ -1,50 +1,137 @@
-# Welcome to your Expo app 👋
+# _**Task & To-Do List Manager**_
+> **Last Updated:** July 18th, 2026
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Project Summary
 
-## Get started
+Task & To-Do List Manager is a mobile productivity application designed to help users organize, track, and manage daily tasks through an intuitive and user-friendly interface.
 
-1. Install dependencies
+The application was developed using React Native with Expo to gain hands-on experience with mobile application development, user authentication, database integration, and CRUD-based application functionality.
 
-   ```bash
-   npm install
-   ```
+> **Project Status:** 🚧 In Development (Archived)
+>
+> This project was paused while focusing on larger academic projects and my senior Capstone project. Although unfinished, the application demonstrates experience building a mobile application with authentication, task management functionality, and cloud database integration.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## Core Elements
 
-In the output, you'll find options to open the app in a
+- User Authentication:
+  - Provides user account creation and login functionality.
+  - Supports user session management.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Task Management:
+  - Create, view, update, and delete tasks.
+  - Display task information through organized screens.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- Task Organization:
+  - Manage personal to-do items.
+  - View task summaries and detailed task information.
 
-## Get a fresh project
+- Mobile User Interface:
+  - Designed a mobile-first experience using React Native and Expo.
+  - Implemented navigation between application screens.
 
-When you're ready, run:
+#### Current Features
 
-```bash
-npm run reset-project
-```
+- User login functionality
+- User logout functionality
+- Home screen
+- Task list screen
+- Detailed task screen
+- To-do list functionality *(completed/in progress)*
+- Appwrite backend integration
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+### Technology Stack
 
-To learn more about developing your project with Expo, look at the following resources:
+#### Frontend
+- React Native
+- Expo
+- JavaScript
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+#### Backend
+- Appwrite
 
-## Join the community
+#### Database
+- Appwrite Database
 
-Join our community of developers creating universal apps.
+#### Development Tools
+- Visual Studio Code
+- Expo Go
+- Git
+- GitHub
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## Getting Started
+
+This repository contains the source code for the Task & To-Do List Manager mobile application.
+
+### Repository Contents
+
+- React Native mobile application
+- Authentication screens
+- Task management components
+- Application assets
+
+### Prerequisites
+
+Before running the project, install:
+
+- Node.js
+- npm
+- Expo CLI
+- Expo Go mobile application
+- Appwrite account
+
+---
+
+## Current Progress
+
+Completed portions of the project include:
+
+- Mobile application setup using Expo
+- User authentication screens
+- Login and logout functionality
+- Home screen interface
+- Task screen interface
+- Detailed task view
+- Initial task management functionality
+
+Future improvements that were planned:
+
+- Task categories
+- Due dates and reminders
+- Priority levels
+- Task filtering and searching
+- Improved UI design
+- Additional productivity features
+
+---
+
+## Purpose
+
+This project was created to develop practical experience with:
+
+- React Native mobile development
+- Expo application workflow
+- Component-based architecture
+- Authentication systems
+- Cloud database integration
+- CRUD operations
+- Mobile UI/UX design
+
+Although the project was not fully completed, it provided valuable experience in mobile application development and contributed to the technical foundation used in later software projects.
+
+---
+
+## Contact
+
+### Created by: Isaiah Adams
+
+> LinkedIn: www.linkedin.com/in/isaiah-j-adams
+>
+> Email: IJAdams1@outlook.com
+
+Thank you for taking the time to explore this project. Feedback and suggestions are always welcome.
