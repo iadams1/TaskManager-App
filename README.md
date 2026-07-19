@@ -13,6 +13,25 @@ The application was developed using React Native with Expo to gain hands-on expe
 
 ---
 
+## Project Preview
+
+The application includes completed screens for user authentication, navigation, task management, and task details.
+
+### Welcome Screen
+<img src="assets/images/welcome-screen.png" width="250">
+
+### Login Screen
+<img src="assets/images/login-screen.png" width="250">
+
+### Home Screen
+<img src="assets/images/home-screen.png" width="250">
+
+### Home Screen (ToDo List Screen)
+<img src="assets/images/todolist-screen.png" width="250">
+
+### Detailed Task Screen
+<img src="assets/images/task-detail-screen.png" width="250">
+
 ## Core Elements
 
 - User Authentication:
